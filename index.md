@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+Tituls: Welcome to my blog!
 ---
+## How i spend my day
